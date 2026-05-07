@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es" id="exe-page-1778150273625-cyv9yzwby">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="eXeLearning v4.0.0">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-sa/4.0/">
+<title>NUESTRO BOSQUE | Nuestro bosque.</title>
+<link rel="icon" type="image/x-icon" href="../libs/favicon.ico">
+<meta name="description" content="El videocuento tiene como finalidad que el alumnado de 4 años se inicie en la creación de narraciones audiovisuales a partir de sus propias creaciones. 
+A lo largo del proceso, el alumnado crea dibujos de personajes y escenas, participa en la construcción oral de una historia, contribuye a la grabación de su propia voz y se expresa en todo momento. 
+El producto final es un videocuento colectivo que integra imágenes y audios creados por el propio alumnado, favoreciendo un aprendizaje significativo, activo y globalizado. 
+Mi papel como docente es de guía, mediador y facilitador del proceso, asegurando la participación activa y adaptando las actividades al nivel madurativo del grupo.
+">
+<script>document.querySelector("html").classList.add("js");</script><script src="../libs/jquery/jquery.min.js"> </script><script src="../libs/common_i18n.js"> </script><script src="../libs/common.js"> </script><script src="../libs/exe_export.js"> </script><script src="../search_index.js"> </script><script src="../libs/bootstrap/bootstrap.bundle.min.js"> </script><link rel="stylesheet" href="../libs/bootstrap/bootstrap.min.css">
+<script src="../idevices/text/text.js"></script><link rel="stylesheet" href="../idevices/text/text.css">
+<link rel="stylesheet" href="../content/css/base.css"><script src="../theme/style.js"> </script><link rel="stylesheet" href="../theme/style.css">
+</head>
+<body class="exe-export exe-web-site">
+<script>document.body.className+=" js"</script>
+<div class="exe-content exe-export pre-js siteNav-hidden"><a href="#page-1778150273625-cyv9yzwby" id="skipNav">Skip to content</a> <nav id="siteNav">
+<ul>
+<li> <a href="../index.html" class="main-node no-ch">Página nueva</a>
+</li>
+<li class="active"> <a href="../html/nuestro-bosque.html" class="active no-ch">NUESTRO BOSQUE</a>
+</li>
+</ul>
+</nav><main id="page-1778150273625-cyv9yzwby" class="page"> <div id="exe-client-search" data-block-order-string="Caja %e" data-no-results-string="Sin resultados.">
+</div>
+<header class="main-header">
+<div class="package-header"><p class="package-title">Nuestro bosque.</p>
+<p class="package-subtitle">Videocuento</p></div>
+<div class="page-header"><h1 class="page-title">NUESTRO BOSQUE</h1></div>
+</header><div id="page-content-page-1778150273625-cyv9yzwby" class="page-content">
+<article id="block-1778150277943-5ovq3s2v6" class="box">
+<header class="box-head">
+<div class="box-icon exe-icon">
+<img src="../theme/icons/book.png" alt="">
+</div>
+<h1 class="box-title">VIDEOCUENTO NUESTRO BOSQUE- EDUCACIÓN INFANTIL</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1778150277938-124c6lqeo" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1778150277938-124c6lqeo&quot;}">
+<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="VIDEOCUENTO">VIDEOCUENTO</span></dt><dd>3 DÍAS</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>20</dd></div></dl><p><strong title="TAREA 2.1">PRESENTACIÓN Y DESCRIPCIÓN: <a href="https://docs.google.com/document/d/1XzkvywvAttl8ZDpVDVf_JY4orlUVzDlNY8Upg2E4qWQ/edit?usp=sharing" title="TAREA 2.1" target="_blank" rel="noopener">https://docs.google.com/document/d/1XzkvywvAttl8ZDpVDVf_JY4orlUVzDlNY8Upg2E4qWQ/edit?usp=sharing</a> </strong></p>
+<p><strong title="TAREA 2.1">INFORMACIÓN DIRIGIDA AL ALUMNADO:</strong></p>
+<p><a href="https://canva.link/eq7egeipljbf3jq" title="TAREA 2.3">https://canva.link/eq7egeipljbf3jq</a></p>
+<p><strong>DESCRIPCIÓN DEL PRODUCTO FINAL: </strong><br /></p>
+<p><strong title="TAREA 4.1 "><a href="https://educacionadistancia.juntadeandalucia.es/profesorado/mod/forum/discuss.php?d=1807768#p4841026" title="TAREA 4.1 ">https://educacionadistancia.juntadeandalucia.es/profesorado/mod/forum/discuss.php?d=1807768#p4841026</a></strong><strong title="TAREA 4.1 "></strong></p>
+<p><strong title="TAREA 4.1 ">HERRAMIENTAS DE CURACIÓN DE CONTENIDO:</strong></p>
+<p><strong title="TAREA 4.1 "><a href="https://padlet.com/rgonzam1106/videocuento-paso-a-paso-wxnyamcq68t7gx62">https://padlet.com/rgonzam1106/videocuento-paso-a-paso-wxnyamcq68t7gx62</a> </strong></p>
+<p><a href="https://www.symbaloo.com/shared/AAAAAcrkCgQAA41-5ETHNQ==">https://www.symbaloo.com/shared/AAAAAcrkCgQAA41-5ETHNQ==</a> </p>
+<p><strong>LÍNEA TEMPORAL: </strong></p>
+<p><strong><a href="https://canva.link/aj95414fg4zurby">https://canva.link/aj95414fg4zurby</a> </strong><strong></strong></p>
+<p><strong>CRITERIOS DE EVALUACIÓN ASOCIADOS:</strong></p>
+<p><strong><a href="https://docs.google.com/document/d/1V0dBb3y2fp-pOxeuZVMZxthbhwJl8NHvxp7DRaDNFXQ/edit?usp=sharing">https://docs.google.com/document/d/1V0dBb3y2fp-pOxeuZVMZxthbhwJl8NHvxp7DRaDNFXQ/edit?usp=sharing</a> </strong></p>
+<p><strong>INSTRUMENTOS DE EVALUACIÓN: </strong><br /></p>
+<p><strong><a href="https://docs.google.com/document/d/1vVQs553y_7bfj18tLMICOm0RnwhG4nyMKB0-l6_EOww/edit?usp=sharing">https://docs.google.com/document/d/1vVQs553y_7bfj18tLMICOm0RnwhG4nyMKB0-l6_EOww/edit?usp=sharing</a> </strong></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="ENLACE A VIDEOCUENTO" data-text-a="ENLACE A VIDEOCUENTO" data-text-b="ENLACE A VIDEOCUENTO"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a href="https://drive.google.com/file/d/1qwjojtAgFCWtXReawJaU8tIT__3k9fhh/view?usp=sharing">https://drive.google.com/file/d/1qwjojtAgFCWtXReawJaU8tIT__3k9fhh/view?usp=sharing</a> </p></div></div>
+</div>
+</div>
+</div>
+</article>
+</div></main><div class="nav-buttons">
+<a href="../index.html" title="Anterior" class="nav-button nav-button-left"><span>Anterior</span></a>
+<span class="nav-button nav-button-right" aria-hidden="true"><span>Siguiente</span></span>
+</div>
+<footer id="siteFooter"><div id="siteFooterContent"> <div id="packageLicense" class="cc cc-by-sa"> <p> <span class="license-label">Licencia: </span><a href="https://creativecommons.org/licenses/by-sa/4.0/" class="license">Creative Commons: Reconocimiento - compartir igual 4.0</a></p>
+</div>
+</div></footer>
+</div>
+<p id="made-with-eXe"> <a href="https://exelearning.net/" target="_blank" rel="noopener"> <span>Creado con eXeLearning <span>(nueva ventana)</span></span></a></p>
+</body>
+</html>
